@@ -1,0 +1,6 @@
+BEGIN_DESC
+付録
+
+
+各Partの途中からゲームを開始します。
+END_DESC
